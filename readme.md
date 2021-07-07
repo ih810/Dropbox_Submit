@@ -1,6 +1,9 @@
 # This is the Fully Traumatizing Web Drop file thinggy  
+  
 ## aka FTWD  
-
+Please npm install in your terminal before you start the server  
+nodemon main.js in your terminal to start the server  
+  
 ### Get started  
 ![upload](./upload.png)  
 click on choose file to select the file you want to upload  
