@@ -1,0 +1,41 @@
+.topbar{
+    padding: 10px 20px 30px 20px;
+    background-color: #fff;
+    color: rgb(0, 153, 255);
+}
+
+.logo{
+    display: inline-block;
+}
+
+.member{
+    display: inline-block;
+}
+
+.folder-nav{
+    background-color: #fff;
+    color:rgb(0, 153, 255);
+    padding: 10px 0 0 20px;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.file-select{
+    padding: 10px 0 0 20px;
+    height: 100vh;
+}
+
+.file-preview{
+    padding: 10px 0 0 20px;
+    color: rgb(0, 153, 255);
+}
+
+ul{
+    padding: 0px;
+}
+
+li{
+    padding: 10px;
+    display: block;
+    border-bottom: 1px solid black;
+}
